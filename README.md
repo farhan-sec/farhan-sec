@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Farhan Ali Khan
 
-<!--
-**farhan-sec/farhan-sec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- Student from Islamabad, Pakistan
+- Interested in IT, Linux, Networking, and Cybersecurity
+- Learning Python, Bash, HTML, CSS, and JavaScript
+- Currently studying German (A1)
+- Future IT Specialist / Fachinformatiker
 
-Here are some ideas to get you started:
+## Technologies & Tools
+- Kali Linux
+- Wireshark
+- Nmap
+- Burp Suite
+- VS Code
+- Python
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Goals
+- Improve programming skills
+- Build cybersecurity projects
+- Learn more about Linux and networking
+- Prepare for Ausbildung in Germany
