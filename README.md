@@ -1,82 +1,106 @@
-# Hey, I'm Farhan Ali Khan 👨‍💻
+# Hi there 👋 Welcome to my GitHub!
 
-## About Me
-I'm an IT specialist from Pakistan building secure systems and teaching people how to spot cyber threats. Currently working toward my **Fachinformatiker** (IT Specialist Apprenticeship) in Germany.
+I'm **Farhan Ali Khan**, an aspiring IT specialist and Cybersecurity enthusiast from Islamabad, Pakistan.
 
-My approach: Learn by building. Understand by teaching.
+## 🎯 About Me
 
----
+I'm passionate about building secure systems and learning the intricacies of network security. I'm currently pursuing my goal to become a **Fachinformatiker** (IT specialist) in Germany, with a strong focus on:
 
-## What I'm Focused On
+- **Cybersecurity & Security Analysis** - Identifying and mitigating vulnerabilities
+- **Network Security** - Monitoring, detecting, and preventing network threats
+- **Python Development** - Building security tools and automation scripts
+- **Linux Systems** - System administration and server hardening
+- **IDS/IPS Technologies** - Intrusion detection and prevention systems
 
-🔐 **Cybersecurity & Network Security** - Real threats, practical solutions  
-🐍 **Python Development** - Building tools that solve problems  
-🌐 **Network Analysis** - Understanding how data moves and where vulnerabilities hide  
-🇩🇪 **German Language** - Currently A1 level (serious about Germany)  
-🎯 **Security Education** - Making cybersecurity accessible to everyone  
+## 🔧 Tech Stack
 
----
+```
+Languages:   Python, Bash
+Security:    Network Security, Web Security, Penetration Testing (basics)
+Tools:       Scapy, Flask, Git, Linux CLI
+Concepts:    Network Protocols, TLS/SSL, HTTP Headers, DDoS/Brute Force Detection
+```
 
-## My Projects
+## 📚 Featured Projects
 
-### **[Phishing Detective](https://github.com/farhan-sec/phishing-detective)**
-An interactive game that teaches you to spot phishing attacks in the wild.
-- Generates realistic phishing attempts using real-world attack tricks
-- Teaches you what to look for: domain manipulation, spoofing, social engineering
-- Learn by doing, not by reading about it
+### 🛡️ [Website Security Scanner](https://github.com/farhan-sec/Website-Security-Scanner)
+**Python** | Passive Security Analysis Tool
 
-**Tech:** Python, Tkinter | **Status:** Active & Improved Regularly
+A comprehensive security scanner that analyzes websites for vulnerabilities:
+- Checks HTTP headers and security configurations
+- Inspects TLS/SSL certificates
+- Detects common web vulnerabilities
+- Generates detailed HTML and JSON reports
+- Compliance checking capabilities
 
-### **[Network Intrusion Detection Simulator](https://github.com/farhan-sec/network-intrusion-detection-simulator)**
-Real-time network monitoring system that detects suspicious activity.
-- Live web dashboard showing network traffic and anomalies
-- Event-based alerting when threats are detected
-- Packet analysis and threat classification
-
-**Tech:** Python, Flask, Scapy, Socket.IO | **Status:** Production-Ready
-
-### **[Website Security Scanner](https://github.com/farhan-sec/Website-Security-Scanner)**
-Passive security analysis tool that scans for common web vulnerabilities.
-- Checks HTTP security headers and hardening flags
-- Analyzes cookie security and TLS configuration
-- Generates HTML and JSON compliance reports
-
-**Tech:** Python | **Status:** Maintained
+**Status:** ⭐ Production-ready | No open issues
 
 ---
 
-## Current Goals
+### 🕵️ [Network Intrusion Detection Simulator](https://github.com/farhan-sec/network-intrusion-detection-simulator)
+**Python** | Real-time Network Monitoring
 
-- 🚀 Build a complete portfolio for **Fachinformatiker Ausbildung in Germany**
-- 📚 Master **German language** (A1 → B1) and **German IT culture**
-- 🎓 Apply to **Youth Action Summit 2027** (security + education focus)
-- 🤝 Contribute to **open-source security projects**
-- 🔍 Deepen expertise in **network security and systems administration**
+A live network monitoring system with an interactive dashboard:
+- Real-time packet analysis using Scapy
+- Detects port scans, brute force attempts, and DDoS patterns
+- Identifies suspicious network behavior
+- Live dashboard built with Flask
+- Pattern recognition for security threats
 
----
-
-## Let's Connect
-
-**Want to collaborate on security projects?**  
-**Interested in mentoring someone serious about IT?**  
-**Building something in cybersecurity?**
-
-Let me know. I'm serious about this path and always learning.
-
-- 📧 **Email:** qitpo01official@gmail.com
-- 🔗 **LinkedIn:** [Farhan Ali Khan](https://www.linkedin.com/in/farhan-ali-khan-14b4872b5/)
-- 🔐 **GitHub:** You're already here!
+**Status:** ⭐ Production-ready | Network security focused
 
 ---
 
-## Quick Stats
+### 🎓 [Phishing Detective](https://github.com/farhan-sec/phishing-detective)
+**Python** | Interactive Security Awareness Training
 
-- **4 Public Projects** (all functional, no abandoned repos)
-- **Focus Areas:** Cybersecurity, Network Security, Python Development
-- **Learning:** German language (A1 level)
-- **Goal:** Fachinformatiker Apprenticeship in Germany
-- **Values:** Security, Education, Building for Impact
+An educational game teaching phishing detection:
+- Realistic phishing email examples
+- Immediate feedback on detection accuracy
+- Infinite practice scenarios
+- Security awareness training tool
+- Already gained 1 star ⭐
+
+**Status:** ⭐ Gaining interest | Security education focused
 
 ---
 
-> *"Security isn't about being perfect. It's about understanding threats and making smart decisions. And the best way to learn that? Build tools to solve real problems."*
+## 🎓 Current Learning
+
+- **German Language** - Currently at A1 level (Active learning)
+- **Advanced Cybersecurity** - Deepening knowledge in network security protocols
+- **Fachinformatiker Curriculum** - Preparing for IT specialist certification in Germany
+
+## 🌍 Location & Open to Opportunities
+
+- **Currently:** Islamabad, Pakistan 🇵🇰
+- **Future Goal:** Germany 🇩🇪 (Pursuing Fachinformatiker program)
+- **Available for:** Cybersecurity projects, security tool development, freelance security audits
+- **Status:** Open to opportunities (Hireable: ✅)
+
+## 📫 Get in Touch
+
+- **Email:** qitpo01official@gmail.com
+- **LinkedIn:** [Farhan Ali Khan](https://www.linkedin.com/in/farhan-ali-khan-14b4872b5)
+- **GitHub:** [@farhan-sec](https://github.com/farhan-sec)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=farhan-sec&show_icons=true&theme=tokyonight&hide=contribs,prs)
+
+---
+
+## 🚀 What's Next?
+
+- **Expanding Security Tools Library** - Building more sophisticated security analysis tools
+- **Contributing to Security Projects** - Open to contributing to established cybersecurity projects
+- **Documentation & Tutorials** - Creating educational content on network security
+- **Internship/Entry-Level Opportunities** - Seeking hands-on experience in security operations
+
+---
+
+**Last Updated:** September 26, 2026
+
+*Feel free to explore my repositories, star the projects you find useful, and reach out if you'd like to collaborate! 🤝*
